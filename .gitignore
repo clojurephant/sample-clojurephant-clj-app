@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+gradle.properties
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# Calva
+.clj-kondo/
+.lsp/
+
+# Sublime
+*.sublime-workspace
+
+# Other
+*~
