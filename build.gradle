@@ -1,5 +1,5 @@
 plugins {
-  id 'dev.clojurephant.clojure' version '0.7.0-alpha.2'
+  id 'dev.clojurephant.clojure' version '0.7.0-alpha.3'
   id 'application'
   id 'com.github.johnrengelman.shadow' version '7.1.2'
   id 'maven-publish'
