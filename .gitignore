@@ -15,8 +15,12 @@ build/
 bin/
 
 # Calva
+.calva/
 .clj-kondo/
 .lsp/
+
+# Clojure
+.nrepl-port
 
 # Sublime
 *.sublime-workspace
